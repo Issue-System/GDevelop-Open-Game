@@ -2266,6 +2266,14 @@
         "metadata": "",
         "name": "assets\\character\\Player\\phone\\phone_lock_1.png",
         "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "assets/rooftop/roof_26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\rooftop\\roof_26.png",
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2274,6 +2282,14 @@
         "kind": "image",
         "metadata": "",
         "name": "assets\\character\\Player\\phone\\phone_lock_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "assets/rooftop/roof_27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\rooftop\\roof_27.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -2287,6 +2303,14 @@
         "userAdded": true
       },
       {
+        "file": "assets/rooftop/roof_28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\rooftop\\roof_28.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
         "alwaysLoaded": false,
         "file": "assets/character/Player/phone/phone_lock_4.png",
         "kind": "image",
@@ -2296,11 +2320,27 @@
         "userAdded": true
       },
       {
+        "file": "assets/rooftop/roof_29.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\rooftop\\roof_29.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
         "alwaysLoaded": false,
         "file": "assets/character/Player/phone/phone_lock_5.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\character\\Player\\phone\\phone_lock_5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "assets/rooftop/roof_30.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\rooftop\\roof_30.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -2393,6 +2433,14 @@
         "name": "assets\\character\\Player\\phone\\pointer_7.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "file": "assets/rooftop/roof_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\rooftop\\roof_8.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
